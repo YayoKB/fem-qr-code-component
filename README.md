@@ -39,5 +39,3 @@ Not too much really. :)
 
 - GitHub - [YayoKB](https:/www.github.com/YayoKB)
 - Frontend Mentor - [@YayoKB](https://www.frontendmentor.io/profile/YayoKB)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
